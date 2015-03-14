@@ -1,0 +1,1 @@
+A very simple vector program designed for high school students in Norwegian [R2](https://code.google.com/p/vector-math/source/detail?r=2) math classes. It aims for quickly calculating answers with as little hassle as possible from the command line.
